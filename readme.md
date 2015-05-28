@@ -1,7 +1,6 @@
-A simple login example using Python (with Tornado Framework, powered by Facebook) and MongoDB.
+Login Example and Tornado Framework
+===================================
 
-This little project has a copy, where the framework is used BottlePY. In this another project, you can compare the differences between the two projects.
+A simple login example using Tornado Framework (a Python Framework) and MongoDB as database.
 
-* Example using BottlePY : https://github.com/brunofarina/BottlePY-LoginExample
-  
-
+Download Tornado at http://www.tornadoweb.org/en/stable/
